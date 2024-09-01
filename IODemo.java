@@ -1,5 +1,5 @@
 import java.io.*;
-class Democricket {
+class IODemo {
 
 	public static void main(String[] args)throws IOException {
 	
