@@ -1,4 +1,4 @@
-class vaishnavii {
+class NestedforDemo {
   
 	public static void main(String[] args){
  
